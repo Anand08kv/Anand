@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anand08kv
+- 👋 Hi, I’m Anand Singh
 - 👀 I’m interested in Web Development and Computer Programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
